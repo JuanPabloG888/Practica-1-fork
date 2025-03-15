@@ -1,2 +1,2 @@
 # Practica-1
-Este es mi primer repositorio
+Primer modificación e la practica para el repositorio
